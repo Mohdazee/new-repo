@@ -1,0 +1,4 @@
+table+form=structurd form
+home work
+1-table+form make a table with form method and table methaod
+2-make an animal card

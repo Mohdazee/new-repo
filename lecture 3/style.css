@@ -1,0 +1,17 @@
+header{
+    margin:1%;
+    border:2px solid black;
+    background-color: rgb(134, 120, 93);
+    padding: 20px 50px;
+}
+p{
+    margin:2%;
+    border:2px solid black;
+    background-color: rgb(134, 120, 93);
+    padding: 20px 50px;
+}
+body{
+    background-color:rgb(134, 120, 93);
+    border:5px solid black;
+    box-shadow: 60px -16px teal;
+}

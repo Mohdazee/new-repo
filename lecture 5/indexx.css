@@ -1,0 +1,40 @@
+body{
+    margin:0%;
+}
+.small-1,.small-2,.small-3{
+    width:33.33%;
+    display:inline-block;
+}
+.small-1{
+    background-color:aqua;
+    float:left;
+}
+.small-2{
+    background-color:burlywood;
+    float:left;
+}
+.small-3{
+    background-color:blue;
+    float:left;
+}
+@media(min-width:500px) and (max-width:700px)
+{
+    .small-1,.small-2,.small-3 {
+        width:50%;
+    } 
+}
+@media(max-width:500px) {
+    .small-1,.small-2,.small-3
+{
+    width:100%;
+          }   
+               }
+.small-1{
+color:black;
+}
+.small-2{
+color:green;
+}
+.small-3{
+color:orange;
+}

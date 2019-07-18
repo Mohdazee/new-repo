@@ -1,0 +1,17 @@
+
+ .body{
+    margin:0%;
+}
+
+.ul{
+    background-color:white;
+    margin:rgb(146, 106, 106);
+
+}
+.footer{
+    background-color:gray;
+}
+.formatting{
+display:inline-block;
+margin-right:10PX;
+}

@@ -1,0 +1,3 @@
+install vs code
+MDM intro to html
+analyse Fb signup login page,count the no. of pages

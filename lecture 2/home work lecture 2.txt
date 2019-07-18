@@ -1,0 +1,9 @@
+class work-my favrout player
+header
+pic
+description
+best point/facts.
+
+1-go through all semantic tags
+2-video/audio tags
+3-layout the google page semanticaly

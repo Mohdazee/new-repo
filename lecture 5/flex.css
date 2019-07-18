@@ -1,0 +1,34 @@
+.box{
+    display:flex;
+    flex-wrap: wrap;
+}
+body{
+    margin:0%;
+}
+.small-1{
+    width:100%;
+}
+.small-1{
+    background-color:burlywood;
+}
+.small-2,.small-3,.small-4,.small-5{
+    width:50%;
+}
+.small-2{
+    background-color:rgb(70, 51, 26);
+}
+.small-3{
+    background-color:blue;
+}
+.small-4{
+    background-color:royalblue;
+}
+.small-5{
+    background-color:yellowgreen;
+}
+@media(max-width:480px)
+{
+    .small-1,.small-2,.small-3,.small-4,.small-5 {
+        width:100%;
+    } 
+}
